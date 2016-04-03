@@ -1,0 +1,26 @@
+body {
+  /* space under the navbar */
+  padding-top: 70px;
+  padding-left: 100px;
+  background-color: rgb(228, 224, 238);
+  font-family: 'Roboto', sans-serif;
+}
+
+.graph {
+  height: 450px;
+	min-width: 300px;
+	max-width: 800px;
+
+	margin: auto;
+  margin-bottom: 25px;
+
+  -webkit-box-shadow: 3px 3px 2px 0px #AAAAAA;
+  -moz-box-shadow: 3px 3px 2px 0px #AAAAAA;
+  box-shadow: 3px 3px 2px 0px #AAAAAA;
+}
+
+.footer {
+  margin-bottom: 50px;
+  color: #AAAAAA;
+  text-align: center;
+}
