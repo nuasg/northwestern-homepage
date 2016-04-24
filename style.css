@@ -22,3 +22,30 @@ body {
   color: #AAAAAA;
   text-align: center;
 }
+
+.no-icon {
+  display: block;
+  height: 180px;
+  width: 180px;
+  margin: 10px;
+  background-color: #4E2A84;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
+  color: white;
+  font-size: 1.3em;
+}
+
+.no-line {
+  text-decoration: none;
+}
+
+.no-line:hover {
+  text-decoration: none;
+}
+
+.no-icon:hover {
+  height: 200px;
+  width: 200px;
+  margin: 0px;
+}
